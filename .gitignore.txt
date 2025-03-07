@@ -1,0 +1,14 @@
+# Ignorer les fichiers de sauvegarde
+*.bak
+*.bak_*
+
+# Ignorer le dossier Git (si jamais il est copié par erreur)
+.git/
+
+# Ignorer d'autres fichiers temporaires (optionnel)
+*.tmp
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
